@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = akira.frlnc@gmail.com
+	name = akira onishi
